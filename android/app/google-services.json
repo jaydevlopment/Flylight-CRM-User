@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "750262902901",
+    "project_id": "flylightcrm-309a8",
+    "storage_bucket": "flylightcrm-309a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:750262902901:android:e434f95b93aeaab1c2d83c",
+        "android_client_info": {
+          "package_name": "com.userflylight"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "750262902901-tpjpa1q0nt3l7foref48pgq54j7hok0d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBM6IwIpXFYuc29_atH6B19RqwISfHIxzI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "750262902901-tpjpa1q0nt3l7foref48pgq54j7hok0d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
